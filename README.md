@@ -1,2 +1,2 @@
 # NUS-Assignment
-CV
+Welcome to you, dear visitor. You can view my CV.
